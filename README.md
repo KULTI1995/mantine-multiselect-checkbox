@@ -2,7 +2,7 @@
 #### selecting a checkbox and choosing a group
 
 #### Additional props
-    dataInit = [],  // Instead of data props
+    dataInit = [],  //Instead of data props
 	checkable = false,  //Enabling selection via checkbox
 	checkableGroup = false, //Marking the whole group
 	checkboxColor = 'dark',  //Mantine colors
